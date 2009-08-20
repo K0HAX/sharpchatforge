@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Notepad Server\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Notepad Server\bin\Release\Notepad Server.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Notepad Server\obj\Release\Notepad Server.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Notepad Server\bin\Release\Notepad Server.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Notepad Server\obj\Release\Notepad Server.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Notepad Server\bin\Release\RemoteObject.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Notepad Server\bin\Release\RemoteObject.pdb

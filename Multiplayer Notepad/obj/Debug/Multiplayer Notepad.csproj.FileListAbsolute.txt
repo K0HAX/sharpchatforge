@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Multiplayer Notepad\bin\Debug\Multiplayer Notepad.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Multiplayer Notepad\bin\Debug\Multiplayer Notepad.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Multiplayer Notepad\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Multiplayer Notepad\obj\Debug\Multiplayer Notepad.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Multiplayer Notepad\obj\Debug\Multiplayer Notepad.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Multiplayer Notepad\obj\Debug\Multiplayer Notepad.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Multiplayer Notepad\obj\Debug\Xcelor8.Notepad.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Multiplayer Notepad\obj\Debug\Xcelor8.Notepad.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Multiplayer Notepad\bin\Debug\RemoteObject.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\Multiplayer Notepad\bin\Debug\RemoteObject.pdb

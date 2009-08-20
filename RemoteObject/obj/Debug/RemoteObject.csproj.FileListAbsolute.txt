@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\RemoteObject\bin\Debug\RemoteObject.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\RemoteObject\bin\Debug\RemoteObject.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\RemoteObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\RemoteObject\obj\Debug\RemoteObject.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Multiplayer Notepad\RemoteObject\obj\Debug\RemoteObject.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Chat\RemoteObject\bin\Debug\RemoteObject.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Chat\RemoteObject\bin\Debug\RemoteObject.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Chat\RemoteObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Chat\RemoteObject\obj\Debug\RemoteObject.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Chat\RemoteObject\obj\Debug\RemoteObject.pdb
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\RemoteObject\bin\Debug\RemoteObject.dll
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\RemoteObject\bin\Debug\RemoteObject.pdb
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\RemoteObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\RemoteObject\obj\Debug\RemoteObject.dll
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\RemoteObject\obj\Debug\RemoteObject.pdb
