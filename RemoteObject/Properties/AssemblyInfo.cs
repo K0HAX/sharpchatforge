@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("RemoteObject")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Xcelor8")]
+[assembly: AssemblyCompany("Sharp Chatforge")]
 [assembly: AssemblyProduct("RemoteObject")]
-[assembly: AssemblyCopyright("Copyright © Xcelor8 2009")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

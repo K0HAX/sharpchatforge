@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Notepad Server")]
+[assembly: AssemblyTitle("Sharp Chatforge Server")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Xcelor8")]
-[assembly: AssemblyProduct("Notepad Server")]
-[assembly: AssemblyCopyright("Copyright © Xcelor8 2009")]
+[assembly: AssemblyCompany("Sharp Chatforge")]
+[assembly: AssemblyProduct("Sharp Chatforge Server")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
