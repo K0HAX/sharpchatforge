@@ -8,7 +8,7 @@
     <ProjectGuid>{17AB488B-0FA0-4326-A69E-FC21189E7FA8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Xcelor8.Chat</RootNamespace>
+    <RootNamespace>Sharp.Chatforge</RootNamespace>
     <AssemblyName>Chat Server</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

@@ -6,7 +6,7 @@ using System.ComponentModel;
 using System.Configuration.Install;
 using System.ServiceProcess;
 
-namespace Xcelor8.Chat
+namespace Sharp.Chatforge
 {
     class NotepadServiceInstaller : Installer
     {

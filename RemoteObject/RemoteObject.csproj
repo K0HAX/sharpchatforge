@@ -8,7 +8,7 @@
     <ProjectGuid>{C5182FC4-B9AD-4676-BACA-80CE6C8CFD9A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Xcelor8.Chat</RootNamespace>
+    <RootNamespace>Sharp.Chatforge</RootNamespace>
     <AssemblyName>RemoteObject</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

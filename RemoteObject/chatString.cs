@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Xcelor8.Chat
+namespace Sharp.Chatforge
 {
     public class chatString : MarshalByRefObject
     {

@@ -9,7 +9,7 @@ using System.Runtime.Remoting.Channels;
 using System.Runtime.Remoting.Channels.Tcp;
 using System.Threading;
 
-namespace Xcelor8.Chat
+namespace Sharp.Chatforge
 {
     class NotepadService : ServiceBase
     {
@@ -36,17 +36,17 @@ namespace Xcelor8.Chat
 
         static void Main(string[] args)
         {
-            RunService();
+            //RunService();
             RunDebug();
         }
 
-        [Conditional("RELEASE")]
-        private static void RunService()
-        {
-            ServiceBase.Run(new NotepadService());
-        }
+        //[Conditional("RELEASE")]
+        //private static void RunService()
+        //{
+        //    ServiceBase.Run(new NotepadService());
+        //}
 
-        [Conditional("DEBUG")]
+        //[Conditional("DEBUG")]
         private static void RunDebug()
         {
             NotepadService server = new NotepadService();

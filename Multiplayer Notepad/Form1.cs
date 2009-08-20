@@ -10,36 +10,33 @@ using System.Runtime.Remoting;
 using System.Runtime.Remoting.Channels;
 using System.Runtime.Remoting.Channels.Tcp;
 
-namespace Xcelor8.Chat
+namespace Sharp.Chatforge
 {
     public partial class Form1 : Form
     {
         TcpChannel chan = new TcpChannel();
         chatString superEvent = new chatString();
-        RemoteObject obj = (RemoteObject)Activator.GetObject(typeof(RemoteObject), "tcp://localhost:1233/NotepadString");
+        RemoteObject obj; //= (RemoteObject)Activator.GetObject(typeof(RemoteObject), "tcp://localhost:1233/NotepadString");
         //private RemoteObject.RemoteObject remObjectClientHandle;
 
         public Form1()
         {
             InitializeComponent();
-            // Use the object
-            if( obj.Equals(null) )      
-            {
-                System.Console.WriteLine("Error: unable to locate server");      
-            }
-            //superEvent.Changed += new myEventChanged(bigString_Changed);
-            EventListener listener = new EventListener(superEvent);
-            EventListener l = new EventListener(superEvent);
+            InitializeData(); //for events in the future maybe...
         }
 
         private void InitializeData()
         {
+            ////These don't work yet
+
             //myEvent.MessageSent += new myEvent.MessageSent();
             //objectHandle.eMessageSent += new myEvent.MessageSent(EventHandler);
         }
 
         private void timerRefresh_Tick(object sender, EventArgs e)
         {
+            //Working on making events to remove this stupid timer..
+
             string myText = "";
             myText = obj.readLog();
             if (myText != uxOutput.Text)
@@ -49,6 +46,8 @@ namespace Xcelor8.Chat
         private void Form1_Load(object sender, EventArgs e)
         {
             uxInput.Enabled = false;
+            uxName.Enabled = false;
+            uxServerIP.Enabled = true;
             timerRefresh.Enabled = false;
         }
 
@@ -89,6 +88,37 @@ namespace Xcelor8.Chat
                 {
                     MessageBox.Show("Please enter a name for yourself");
                 }
+            }
+        }
+
+        private void uxServerIP_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)13)
+            {
+                // Obsolete code
+                //obj = (RemoteObject)Activator.GetObject(typeof(RemoteObject), "tcp://localhost:1233/NotepadString");
+
+
+                obj = (RemoteObject)Activator.GetObject(typeof(RemoteObject), "tcp://" + uxServerIP.Text + ":1233/NotepadString");
+                try
+                {
+                    if (obj.Equals(null))
+                    {
+                        MessageBox.Show("Error: Unable to locate server");
+                    }
+                    else
+                    {
+                        uxName.Enabled = true;
+                        uxServerIP.Enabled = false;
+                    }
+                }
+                catch
+                {
+                    MessageBox.Show("Error: object failure");
+                    uxServerIP.Enabled = true;
+                    uxName.Enabled = false;
+                }
+                EventListener listener = new EventListener(superEvent);
             }
         }
     }

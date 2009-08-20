@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Xcelor8.Chat
+namespace Sharp.Chatforge
 {
     static class Program
     {

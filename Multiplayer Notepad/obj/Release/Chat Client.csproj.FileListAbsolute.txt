@@ -18,3 +18,13 @@ C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\Multiplayer
 C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\Multiplayer Notepad\obj\Release\Xcelor8.Chat.Form1.resources
 C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\Multiplayer Notepad\obj\Release\Xcelor8.Chat.Properties.Resources.resources
 C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\Multiplayer Notepad\obj\Release\Chat Client.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Multiplayer Notepad\bin\Release\Xcelor8 Chat Client.exe
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Multiplayer Notepad\bin\Release\Xcelor8 Chat Client.pdb
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Multiplayer Notepad\bin\Release\RemoteObject.dll
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Multiplayer Notepad\bin\Release\RemoteObject.pdb
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Multiplayer Notepad\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Multiplayer Notepad\obj\Release\Chat Client.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Multiplayer Notepad\obj\Release\Xcelor8 Chat Client.exe
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Multiplayer Notepad\obj\Release\Xcelor8 Chat Client.pdb
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Multiplayer Notepad\obj\Release\Sharp.Chatforge.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Multiplayer Notepad\obj\Release\Sharp.Chatforge.Properties.Resources.resources

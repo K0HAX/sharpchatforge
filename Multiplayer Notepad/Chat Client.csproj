@@ -8,7 +8,7 @@
     <ProjectGuid>{B1435203-89A2-48DB-8BC0-7CFD634FDA12}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Xcelor8.Chat</RootNamespace>
+    <RootNamespace>Sharp.Chatforge</RootNamespace>
     <AssemblyName>Xcelor8 Chat Client</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

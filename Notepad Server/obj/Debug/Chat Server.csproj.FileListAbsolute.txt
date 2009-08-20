@@ -12,3 +12,10 @@ C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\Notepad Ser
 C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\Notepad Server\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\Notepad Server\obj\Debug\Chat Server.exe
 C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\Notepad Server\obj\Debug\Chat Server.pdb
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Notepad Server\bin\Debug\Chat Server.exe
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Notepad Server\bin\Debug\Chat Server.pdb
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Notepad Server\bin\Debug\RemoteObject.dll
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Notepad Server\bin\Debug\RemoteObject.pdb
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Notepad Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Notepad Server\obj\Debug\Chat Server.exe
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Notepad Server\obj\Debug\Chat Server.pdb

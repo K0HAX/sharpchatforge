@@ -13,3 +13,8 @@ C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\RemoteObjec
 C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\RemoteObject\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\RemoteObject\obj\Debug\RemoteObject.dll
 C:\Documents and Settings\Administrator\My Documents\My Dropbox\Chat\RemoteObject\obj\Debug\RemoteObject.pdb
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\RemoteObject\bin\Debug\RemoteObject.dll
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\RemoteObject\bin\Debug\RemoteObject.pdb
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\RemoteObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\RemoteObject\obj\Debug\RemoteObject.dll
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\RemoteObject\obj\Debug\RemoteObject.pdb
