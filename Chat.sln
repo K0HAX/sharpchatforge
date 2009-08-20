@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual C# Express 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat Client", "Multiplayer Notepad\Chat Client.csproj", "{B1435203-89A2-48DB-8BC0-7CFD634FDA12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat Client", "Chat Client\Chat Client.csproj", "{B1435203-89A2-48DB-8BC0-7CFD634FDA12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat Server", "Notepad Server\Chat Server.csproj", "{17AB488B-0FA0-4326-A69E-FC21189E7FA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat Server", "Chat Server\Chat Server.csproj", "{17AB488B-0FA0-4326-A69E-FC21189E7FA8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteObject", "RemoteObject\RemoteObject.csproj", "{C5182FC4-B9AD-4676-BACA-80CE6C8CFD9A}"
 EndProject

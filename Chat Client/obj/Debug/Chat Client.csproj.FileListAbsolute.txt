@@ -28,3 +28,5 @@ C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\M
 C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Multiplayer Notepad\obj\Debug\Chat Client.csproj.GenerateResource.Cache
 C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Multiplayer Notepad\obj\Debug\Sharp.Chatforge.Form1.resources
 C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Multiplayer Notepad\obj\Debug\Sharp.Chatforge.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Chat Client\obj\Debug\Xcelor8 Chat Client.exe
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\sharpchatforge\Chat Client\obj\Debug\Xcelor8 Chat Client.pdb
