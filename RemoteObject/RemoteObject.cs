@@ -33,6 +33,9 @@ namespace Sharp.Chatforge
             //myEvent.changeString(makeString);
             superEvent.superString = makeString;
             //eMessageSent(EpicString);
+            Console.WriteLine("## New Message ##");
+            Console.WriteLine(name + ": " + message);
+            Console.WriteLine("## End New Message##");
             return superEvent.superString;
         }
 
@@ -45,6 +48,10 @@ namespace Sharp.Chatforge
         public string clearChat(string name)
         {
             //myEvent.changeString("***" + name + " cleared the chat log***");
+            superEvent.superString = "***" + name + " cleared the chat log***";
+            Console.WriteLine("!!!Chat Log Erased!!!");
+            Console.WriteLine("Erased by: " + name);
+            Console.WriteLine("!!!End Chat Log Erased!!!");
             return superEvent.superString;
         }
     }
